@@ -1,8 +1,6 @@
 package roller;
 /*
-*  Attribution for dice icons:
-*  <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from
-* <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+ *  Attribution for dice icons: Icons made by Freepik and www.flaticon.com
  */
 
 import javafx.animation.RotateTransition;
